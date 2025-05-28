@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 
 *Pickled*
-#*Output/*/*.pkl
+#*Output*
 0.*
 *.pkl
 *.rds
