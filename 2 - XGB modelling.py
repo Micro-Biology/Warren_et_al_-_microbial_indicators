@@ -27,8 +27,8 @@ import matplotlib.pyplot as plt
 
 input_dir = f"{os. getcwd()}/Example_data"
 
-metadata = pd.read_csv(f"{input_dir}/filtered_metadata_normal.csv")
-treated_data = pd.read_csv(f"{input_dir}/filtered_asv_normal.csv")
+metadata = pd.read_csv(f"{input_dir}/example_metadata.csv")
+treated_data = pd.read_csv(f"{input_dir}/example_normalised_abundance.csv")
 
 print(f"treated_data table shape {treated_data.shape}")
 print(f"meta table shape {metadata.shape}")

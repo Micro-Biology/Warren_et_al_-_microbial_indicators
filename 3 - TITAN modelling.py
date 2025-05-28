@@ -13,8 +13,8 @@ import os
 # DBTITLE 1,Tidy data
 input_dir = f"{os. getcwd()}/Example_data"
 
-metadata = pd.read_csv(f"{input_dir}/filtered_metadata_normal.csv")
-treated_data = pd.read_csv(f"{input_dir}/filtered_asv_normal.csv")
+metadata = pd.read_csv(f"{input_dir}/example_metadata.csv")
+treated_data = pd.read_csv(f"{input_dir}/example_normalised_abundance.csv")
 
 output_directory = f"{os. getcwd()}/Output/TITAN"
 os.makedirs(output_directory, exist_ok=True)
