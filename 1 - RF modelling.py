@@ -214,12 +214,13 @@ def model_maker(dataframe, hyperparamframe, random_state=42, optimal=True):
             max_depth = None
         else:
             max_depth = int(max_depth)
-        max_features = param_row['max_features']
-        if isinstance(max_features, str):
-            try:
-                max_features = float(max_features)
-            except ValueError:
-                pass  #keep as a string if it is 'sqrt' or 'log2'
+
+        if pd.isna(max_features):
+            max_features = None
+        elif max_features == 'sqrt' or max_features == 'log2':
+                pass
+        else:
+            max_features = float(max_features)
 
         min_samples_leaf = int(float(param_row['min_samples_leaf']))
         min_samples_split = int(float(param_row['min_samples_split']))
