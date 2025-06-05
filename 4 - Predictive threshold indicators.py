@@ -1,14 +1,17 @@
 # Databricks notebook source
-# DBTITLE 1,r=0.8
+
 import pandas as pd
 import numpy as np
 import os
 
-wkdir = os. getcwd()
 model = "XGB" #"RF"
+n = "nitrate as n_mean"
+ton = "nitrogen total oxidised as n_mean"
 
-n_titan = pd.read_csv(f"{os. getcwd()}/Output/TITAN/titan_n_tax.csv").rename(columns={"Unnamed: 0":"Genus", "zenv.cp":"zenv_n", "filter":"group_n"})[["Genus","zenv_n","group_n"]]
-ton_titan = pd.read_csv(f"{os. getcwd()}/Output/TITAN/titan_ton_tax.csv").rename(columns={"Unnamed: 0":"Genus", "zenv.cp":"zenv_ton", "filter":"group_ton"})[["Genus","zenv_ton","group_ton"]]
+wkdir = os. getcwd()
+
+n_titan = pd.read_csv(f"{os. getcwd()}/Output/TITAN/{n}/titan_tax.csv").rename(columns={"Unnamed: 0":"Genus", "zenv.cp":"zenv_n", "filter":"group_n"})[["Genus","zenv_n","group_n"]]
+ton_titan = pd.read_csv(f"{os. getcwd()}/Output/TITAN/{ton}/titan_tax.csv").rename(columns={"Unnamed: 0":"Genus", "zenv.cp":"zenv_ton", "filter":"group_ton"})[["Genus","zenv_ton","group_ton"]]
 
 titan = n_titan.merge(ton_titan, on="Genus", how="outer")
 titan['titan_ind'] = titan.apply(lambda row: True if row['group_n'] != 0 or row['group_ton'] != 0 else False, axis=1)
@@ -17,20 +20,20 @@ titan['titan_ind_dir'] = 0
 titan.loc[(titan['group_n'] == 1) | (titan['group_ton'] == 1), 'titan_ind_dir'] = 1
 titan.loc[(titan['group_n'] == 2) | (titan['group_ton'] == 2), 'titan_ind_dir'] = 2
 
-def get_xgb(loc, chem):
-    xgb = pd.read_csv(loc).rename(columns={"absolute_mean_shap_value":f"shap_{chem}","impact_direction":f"direction_{chem}"})
-    xgb[f'shap_{chem}_perc'] = xgb[f'shap_{chem}']/xgb[f'shap_{chem}'].sum()*100
-    xgb[f'shap_{chem}_rank'] = xgb[f'shap_{chem}_perc'].rank(method='dense', ascending=False)
-    xgb[f'shap_{chem}_rank'] = xgb[f'shap_{chem}_rank'].replace(xgb[f'shap_{chem}_rank'].max(), np.nan)
-    return xgb
+def get_regression(loc, chem):
+    regression = pd.read_csv(loc).rename(columns={"absolute_mean_shap_value":f"shap_{chem}","impact_direction":f"direction_{chem}"})
+    regression[f'shap_{chem}_perc'] = regression[f'shap_{chem}']/regression[f'shap_{chem}'].sum()*100
+    regression[f'shap_{chem}_rank'] = regression[f'shap_{chem}_perc'].rank(method='dense', ascending=False)
+    regression[f'shap_{chem}_rank'] = regression[f'shap_{chem}_rank'].replace(regression[f'shap_{chem}_rank'].max(), np.nan)
+    return regression
 
-n_xgb = (get_xgb(f"{os. getcwd()}/Output/XGB/XGB_nitrate as n_mean_log10_shap_importance.csv", "n"))
-ton_xgb = (get_xgb(f"{os. getcwd()}/Output/XGB/XGB_nitrogen total oxidised as n_mean_log10_shap_importance.csv", "ton"))
+n_regression = (get_regression(f"{os. getcwd()}/Output/{model}/{model}_nitrate as n_mean_log10_shap_importance.csv", "n"))
+ton_regression = (get_regression(f"{os. getcwd()}/Output/{model}/{model}_nitrogen total oxidised as n_mean_log10_shap_importance.csv", "ton"))
 
-xgb = n_xgb.merge(ton_xgb, on="Genus", how="outer")
-xgb['xgb_ind'] = ((xgb['shap_n_perc'] > xgb['shap_n_perc'].sum()/len(xgb['shap_n_perc'])) | (xgb['shap_ton_perc'] > xgb['shap_ton_perc'].sum()/len(xgb['shap_ton_perc'])))
+regression = n_regression.merge(ton_regression, on="Genus", how="outer")
+regression['regression_ind'] = ((regression['shap_n_perc'] > regression['shap_n_perc'].sum()/len(regression['shap_n_perc'])) | (regression['shap_ton_perc'] > regression['shap_ton_perc'].sum()/len(regression['shap_ton_perc'])))
 
-results = titan.merge(xgb, on="Genus", how="outer")
+results = titan.merge(regression, on="Genus", how="outer")
 
 results.to_csv(f"{os. getcwd()}/Output/results_summary_{model}.csv")
 
