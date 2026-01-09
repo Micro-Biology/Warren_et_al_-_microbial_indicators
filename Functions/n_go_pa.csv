@@ -1,0 +1,732 @@
+genus,num_genomes,reference taxa level,taxon label used,nitrogen cycle metabolic process(GO:0071941),nitrogen fixation(GO:0009399),"anaerobic respiration, using ammonium as electron donor(GO:0019331)",denitrification pathway(GO:0019333),"aerobic respiration, using ammonia as electron donor(GO:0019409)",urea metabolic process(GO:0019627),nitrate assimilation(GO:0042128)
+966-1,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+AAP99,4,family,Sutterellaceae,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+AKYG587,3,family,Phycisphaeraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Acanthopleuribacter,1,family,Acanthopleuribacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Acidicapsa,17,manual,Acidobacteriaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Acidiferrimicrobium,1,family,Acidimicrobiaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acidiphilium,1,False,Acidiphilium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acidisphaera,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Acidocella,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Acidothermus,1,False,Acidothermus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Acidovorax,3,False,Acidovorax,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Acinetobacter,32,False,Acinetobacter,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Actimicrobium,39,family,Oxalobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Actinomycetospora,40,family,Pseudonocardiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Actinoplanes,6,False,Actinoplanes,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Adhaeribacter,2,False,Adhaeribacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Advenella,2,False,Advenella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Aequorivita,5,False,Aequorivita,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aerococcus,7,False,Aerococcus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Aeromicrobium,5,False,Aeromicrobium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Aeromonas,16,False,Aeromonas,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Aestuariicella,10,family,Cellvibrionaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Aetherobacter,3,family,Polyangiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Afipia,2,False,Afipia,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+Agathobacter,1,False,Agathobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agitococcus,54,family,Moraxellaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Agriterribacter,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Agrobacterium,7,False,Agrobacterium,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Agrococcus,1,False,Agrococcus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Agromyces,10,False,Agromyces,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Ahniella,1,False,Ahniella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Algibacter,1,False,Algibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Algisphaera,3,family,Phycisphaeraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Algoriphagus,2,False,Algoriphagus,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Aliihoeflea,66,family,Rhizobiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Alistipes,7,False,Alistipes,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aliterella,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Alkanindiges,54,family,Moraxellaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Allorhizobium,2,False,Allorhizobium,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Alteraurantiacibacter,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Altererythrobacter,3,False,Altererythrobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Altericroceibacterium,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Alterococcus,7,family,Opitutaceae,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Amaricoccus,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Amphiplicatus,2,family,Parvularculaceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Ampullimonas,1,False,Ampullimonas,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Anabaena,2,False,Anabaena,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Anaerocella,7,family,Rikenellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anaerocolumna,3,False,Anaerocolumna,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Anaerolinea,1,False,Anaerolinea,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Anaeromyxobacter,3,False,Anaeromyxobacter,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Anaerosinus,11,family,Sporomusaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Anaerovorax,6,family,Anaerovoracaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Angustibacter,1,family,Kineosporiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Annamia HOs24,1,family,Cyanobacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Aquabacterium,1,False,Aquabacterium,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Aquicella,2,False,Aquicella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aquihabitans,3,family,Iamiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Aquimonas,19,family,Rhodanobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Aquipuribacter,9,family,Intrasporangiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Aquirhabdus,1,False,Aquirhabdus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Aquisphaera,1,False,Aquisphaera,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Archangium,3,False,Archangium,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Arcicella,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Arcobacter,11,False,Arcobacter,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Arcticibacter,35,family,Sphingobacteriaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Arcticiflavibacter,1,False,Arcticiflavibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arenibacter,2,False,Arenibacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Arenimonas,74,family,Lysobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Aromatoleum,4,False,Aromatoleum,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Arsenicitalea,13,family,Devosiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Arthrobacter,14,False,Arthrobacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Asticcacaulis,1,False,Asticcacaulis,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Atopostipes,11,family,Carnobacteriaceae,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Aurantiacibacter,2,False,Aurantiacibacter,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Aurantimicrobium,2,False,Aurantimicrobium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aurantimonas,66,family,Rhizobiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Aurantisolimonas,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Aureimonas,3,False,Aureimonas,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Aureispira,1,False,Aureispira,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Azohydromonas,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Azorhizobium,1,False,Azorhizobium,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Azospira,3,False,Azospira,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Azospirillum,5,False,Azospirillum,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+BD1-7 clade,4,family,Spongiibacteraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+BIyi10,1,family,Pseudohongiellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+BSV13,6,family,Prolixibacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Bacillus,139,family,Bacillaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Bacteriovorax,1,False,Bacteriovorax,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bacteroides,25,False,Bacteroides,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Bauldia,3,manual,119042,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Bdellovibrio,2,False,Bdellovibrio,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Beggiatoa,1,False,Beggiatoa,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Beijerinckia,1,False,Beijerinckia,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Bernardetia,1,False,Bernardetia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bifidobacterium,20,False,Bifidobacterium,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Blastococcus,2,False,Blastococcus,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Blastomonas,1,False,Blastomonas,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Blvii28 wastewater-sludge group,7,manual,Rikenellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bordetella,10,False,Bordetella,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Bosea,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Brachybacterium,7,False,Brachybacterium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Bradyrhizobium,34,False,Bradyrhizobium,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Bremerella,1,False,Bremerella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brevibacterium,10,False,Brevibacterium,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Brevifollis,6,family,Verrucomicrobiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Brevundimonas,13,False,Brevundimonas,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Breznakibacter,2,family,Marinilabiliaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Bryobacter,1,family,Bryobacteraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Buchnera,40,family,Morganellaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Burkholderia-Caballeronia-Paraburkholderia,107,family,Burkholderiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Buttiauxella,2,False,Buttiauxella,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+C39,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+CL500-29 marine group,1,family,Ilumatobacteraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+CL500-3,3,family,Phycisphaeraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+CM1G08,39,family,Oxalobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Caenimonas,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Caldimonas,3,False,Caldimonas,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Calothrix KVSF5,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Calothrix NIES-2100,9,family,Nostocaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Calothrix PCC-6303,9,family,Nostocaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Accumulibacter,1,False,Accumulibacter,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Alysiosphaera,3,family,Geminicoccaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Candidatus Amoebophilus,1,False,Amoebophilus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Anammoximicrobium,12,family,Pirellulaceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Candidatus Aquiluna,1,False,Aquiluna,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Bacilloplasma,30,family,Mycoplasmataceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Brocadia,1,family,Brocadiaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Captivus,2,family,Paracaedibacteraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Electronema,6,family,Desulfobulbaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Finniella,2,family,Paracaedibacteraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Jidaibacter,6,family,Midichloriaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Koribacter,1,False,Koribacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Limnoluna,102,family,Microbacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Candidatus Megaira,1,False,Megaira,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Methylopumilus,1,False,Methylopumilus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Nitrosoarchaeum,10,manual,Nitrosopumilaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Nitrosocosmicus,3,family,Nitrososphaeraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Candidatus Nitrotoga,1,False,Nitrotoga,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Omnitrophus,1,manual,67812,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Paracaedibacter,2,family,Paracaedibacteraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Planktoluna,102,family,Microbacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Candidatus Planktophila,6,False,Planktophila,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Rhabdochlamydia,2,False,Rhabdochlamydia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Symbiobacter,1,False,Symbiobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Candidatus Xiphinematobacter,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Carnobacterium,2,False,Carnobacterium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Caulobacter,5,False,Caulobacter,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Cavicella,54,family,Moraxellaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Cellulomonas,12,False,Cellulomonas,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Cellulophaga,4,False,Cellulophaga,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Cellvibrio,1,False,Cellvibrio,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Cephaloticoccus,7,family,Opitutaceae,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Cereibacter,1,False,Cereibacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Cetobacterium,1,False,Cetobacterium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chamaesiphon PCC-7430,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Chiayiivirga,19,family,Rhodanobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Chitinibacter,3,False,Chitinibacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Chitinimonas,1,False,Chitinimonas,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Chitinophaga,9,False,Chitinophaga,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Chlorobium,2,False,Chlorobium,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Christensenellaceae R-7 group,1,family,Christensenellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chroococcidiopsis PCC-6712,1,manual,Chroococcidiopsis,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Chryseobacterium,24,False,Chryseobacterium,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Chryseoglobus,4,False,Chryseoglobus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chryseolinea,1,False,Chryseolinea,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chthonobacter,1,family,Pleomorphomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Citrobacter,14,False,Citrobacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Clavibacter,8,False,Clavibacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Cloacibacterium,2,False,Cloacibacterium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clostridioides,1,False,Clostridioides,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Clostridium,43,False,Clostridium,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Cognataquiflexum,11,family,Cyclobacteriaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Collimonas,3,False,Collimonas,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Comamonas,12,False,Comamonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Conexibacter,1,False,Conexibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Confluentibacter,199,family,Flavobacteriaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Corynebacterium,112,False,Corynebacterium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Coxiella,15,family,Coxiellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Croceibacterium,1,False,Croceibacterium,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Crocinitomix,2,family,Crocinitomicaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cryobacterium,1,False,Cryobacterium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Cupriavidus,8,False,Cupriavidus,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Curtobacterium,3,False,Curtobacterium,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Curvibacter,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Cutibacterium,4,False,Cutibacterium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyanobium PCC-6307,4,family,Cyanobiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Cyanomargarita,9,family,Nostocaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Cyanothece PCC 7425,3,family,Thermosynechococcaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Cypionkella,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Cystobacter,7,family,Myxococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Cytophaga,1,False,Cytophaga,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+DSSD61,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+DSSF69,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Dactylosporangium,4,False,Dactylosporangium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Daejeonella,35,family,Sphingobacteriaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Dankookia,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Dechlorobacter,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Dechloromonas,1,False,Dechloromonas,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+Deefgea,2,False,Deefgea,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Defluviicoccus,1,False,Defluviicoccus,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Defluviimonas,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Deinococcus,23,False,Deinococcus,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Delftia,3,False,Delftia,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Demequina,1,False,Demequina,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Denitratisoma,1,False,Denitratisoma,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Desertimonas,1,family,Ilumatobacteraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Desulfobacca,1,False,Desulfobacca,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Desulfobacter,2,family,Desulfobacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Desulfobacula,1,False,Desulfobacula,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Desulfobulbus,3,False,Desulfobulbus,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Desulfocapsa,1,False,Desulfocapsa,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Desulfocastanea,5,family,Desulfocapsaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Desulfomicrobium,2,False,Desulfomicrobium,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Desulfomonile,1,False,Desulfomonile,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Desulfoprunum,5,family,Desulfocapsaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Desulforhopalus,5,family,Desulfocapsaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Desulfosporosinus,3,False,Desulfosporosinus,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+Desulfovibrio,7,False,Desulfovibrio,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Desulfuromonas,3,False,Desulfuromonas,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Devosia,6,False,Devosia,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Dinghuibacter,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Diplosphaera,7,family,Opitutaceae,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Dokdonella,1,False,Dokdonella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dongia,2,family,Dongiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Duganella,2,False,Duganella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Dyadobacter,5,False,Dyadobacter,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Dysgonomonas,1,False,Dysgonomonas,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Edaphobaculum,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Ekhidna,11,family,Cyclobacteriaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Ellin6055,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Ellin6067,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Elstera,8,manual,Rhodospirillaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Emticicia,1,False,Emticicia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Endobacterium,66,family,Rhizobiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Enhygromyxa,1,family,Nannocystaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ensifer,2,False,Ensifer,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Enterococcus,16,False,Enterococcus,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Ephemeroptericola,1,False,Ephemeroptericola,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ercella,28,family,Oscillospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Erwinia,11,False,Erwinia,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Erysipelothrix,6,False,Erysipelothrix,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Erythrobacter,5,False,Erythrobacter,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Exiguobacterium,3,False,Exiguobacterium,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Faecalibacterium,2,False,Faecalibacterium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ferribacterium,1,False,Ferribacterium,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+Ferriphaselus,1,False,Ferriphaselus,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Ferritrophicum,4,family,Sulfuricellaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Ferrovibrio,1,False,Ferrovibrio,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Ferruginibacter,2,False,Ferruginibacter,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Fibrella,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Fibrobacter,1,False,Fibrobacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Filimonas,1,False,Filimonas,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fimbriiglobus,7,family,Gemmataceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Flavihumibacter,2,False,Flavihumibacter,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+Flavimaricola,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Flavipsychrobacter,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Flavisolibacter,2,False,Flavisolibacter,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Flavitalea,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Flavobacterium,70,False,Flavobacterium,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Flectobacillus,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Fluviicoccus,54,family,Moraxellaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Fluviicola,1,False,Fluviicola,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluviimonas,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Formivibrio,12,family,Chitinibacteraceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Fr127,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Frondihabitans,1,False,Frondihabitans,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+FukuN18 freshwater group,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+FukuN57,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Fundidesulfovibrio,29,family,Desulfovibrionaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Fuscovulum,1,False,Fuscovulum,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Fusibacter,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+GOUTA6,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+GTL1,2,family,Saccharimonadaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GW2011_GWC1_47_15,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+GWD2-49-16,3,family,Anaerolineaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Galbitalea,102,family,Microbacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Gallionella,1,False,Gallionella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Geitlerinema LD9,1,family,Cyanobacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Geminocystis PCC-6308,1,family,Cyanobacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Gemmata,2,False,Gemmata,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Gemmatimonas,3,False,Gemmatimonas,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Gemmobacter,1,False,Gemmobacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Geoanaerobacter,14,family,Geobacteraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Geobacter,4,False,Geobacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Geomobilimonas,14,family,Geobacteraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Geomonas,4,False,Geomonas,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Georgfuchsia,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Geotalea,2,False,Geotalea,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Geothrix,1,False,Geothrix,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Giesbergeria,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Gillisia,199,family,Flavobacteriaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Gloeobacter PCC-7421,3,family,Gloeobacteraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Glutamicibacter,6,False,Glutamicibacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Granulicella,2,False,Granulicella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Haematobacter,1,False,Haematobacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Haematospirillum,1,False,Haematospirillum,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Halioglobus,1,False,Halioglobus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Haliscomenobacter,1,False,Haliscomenobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Halomonas,13,False,Halomonas,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Hassallia,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Herbaspirillum,6,False,Herbaspirillum,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Herminiimonas,1,False,Herminiimonas,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hirschia,1,False,Hirschia,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hoppeia,199,family,Flavobacteriaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Humidesulfovibrio,29,family,Desulfovibrionaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Hydrogenophaga,3,False,Hydrogenophaga,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Hylemonella,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Hymenobacter,18,False,Hymenobacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Hypericibacter,2,False,Hypericibacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Hyphomicrobium,2,False,Hyphomicrobium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Hyphomonas,1,False,Hyphomonas,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hypnocyclicus,13,family,Leptotrichiaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+IMCC26134,7,family,Opitutaceae,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+IS-44,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Iamia,1,False,Iamia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ideonella,1,False,Ideonella,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Ignatzschineria,2,False,Ignatzschineria,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Ignavibacterium,1,False,Ignavibacterium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ilumatobacter,1,False,Ilumatobacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Immundisolibacter,1,False,Immundisolibacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Imperialibacter,1,False,Imperialibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Inhella,1,False,Inhella,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Inquilinus,8,manual,Rhodospirillaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Insolitispirillum,8,family,Rhodospirillaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Intrasporangium,1,False,Intrasporangium,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Iodobacter,1,False,Iodobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+JGI 0001001-H03,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Jahnella,3,family,Polyangiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Janthinobacterium,6,False,Janthinobacterium,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Jatrophihabitans,2,False,Jatrophihabitans,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+KCM-B-112,10,family,Acidithiobacillaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+KD3-10,7,family,Myxococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Kamptonema PCC-6407,5,family,Phormidiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Ketobacter,1,False,Ketobacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Kineobactrum,1,False,Kineobactrum,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kineococcus,1,False,Kineococcus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Kineosporia,1,family,Kineosporiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Klebsiella,10,False,Klebsiella,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Klenkia,4,family,Geodermatophilaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Knoellia,9,family,Intrasporangiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Kocuria,2,False,Kocuria,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Kofleria,1,family,Haliangiaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Kribbella,1,False,Kribbella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+LB3-76,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Labrys,1,manual,204476,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Lacibacter,1,False,Lacibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lacihabitans,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Lactococcus,8,False,Lactococcus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Larkinella,1,False,Larkinella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lautropia,1,False,Lautropia,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Legionella,17,False,Legionella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lentisphaera,1,False,Lentisphaera,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leptolinea,3,family,Anaerolineaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Leptolyngbya ANT.L52.2,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Leptolyngbya FYG,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Leptolyngbya PCC-6306,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Leptolyngbya SAG 2411,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Leptospira,10,False,Leptospira,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+Leptothrix,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Leucobacter,9,False,Leucobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lewinella,2,family,Saprospiraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Lichenibacterium,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Limnobacter,2,False,Limnobacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Limnohabitans,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Loktanella,1,False,Loktanella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Longilinea,3,family,Anaerolineaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Longivirga,1,family,Sporichthyaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Luteibacter,7,False,Luteibacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Luteimonas,3,False,Luteimonas,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+Luteitalea,1,False,Luteitalea,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Luteolibacter,2,False,Luteolibacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Lysinibacillus,11,False,Lysinibacillus,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Lysobacter,10,False,Lysobacter,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+MD3-55,6,family,Midichloriaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MM1,6,family,Methylophilaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+MM2,6,family,Methylophilaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+MND1,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+MSBL3,1,family,Kiritimatiellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+MWH-Ta3,102,family,Microbacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Macellibacteroides,6,family,Tannerellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Magnetospirillum,1,False,Magnetospirillum,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Malikia,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Mangrovihabitans,28,family,Micromonosporaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Maribacter,5,False,Maribacter,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Marinagarivorans,1,False,Marinagarivorans,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Marine Benthic Group D and DHVEG-1,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Mariniblastus,1,False,Mariniblastus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mariniflexile,1,False,Mariniflexile,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marinomonas,9,False,Marinomonas,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Marinoscillum,11,family,Cyclobacteriaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Marisediminicola,1,False,Marisediminicola,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Marmoricola,35,family,Nocardioidaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Massilia,9,False,Massilia,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Meiothermus,2,False,Meiothermus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mesorhizobium,11,False,Mesorhizobium,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Methanoregula,2,False,Methanoregula,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Methanosarcina,10,False,Methanosarcina,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Methanothrix,3,False,Methanothrix,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Methylibium,1,False,Methylibium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Methylobacter,19,manual,Methylococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Methylobacterium,11,False,Methylobacterium,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Methylocapsa,1,False,Methylocapsa,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Methylocella,2,False,Methylocella,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Methylocystis,5,False,Methylocystis,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Methyloglobulus,19,manual,Methylococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Methylomonas,6,False,Methylomonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Methyloparacoccus,19,family,Methylococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Methylophilus,6,family,Methylophilaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Methylorosula,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Methylotenera,2,False,Methylotenera,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Methyloversatilis,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Methylovorus,1,False,Methylovorus,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Methylovulum,1,False,Methylovulum,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Microbacterium,35,False,Microbacterium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Microcella,4,False,Microcella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Microcoleus SAG 1449-1a,1,family,Coleofasciculaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Microlunatus,2,False,Microlunatus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Micromonospora,12,False,Micromonospora,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Microvirga,4,False,Microvirga,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Minicystis,3,family,Polyangiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Mobilitalea,59,family,Lachnospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Mucilaginibacter,13,False,Mucilaginibacter,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Mycetocola,2,False,Mycetocola,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Mycobacterium,47,False,Mycobacterium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+NK4A214 group,28,family,Oscillospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Nakamurella,2,False,Nakamurella,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Namhaeicola,199,family,Flavobacteriaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Nannocystis,1,False,Nannocystis,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nemorincola,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Neobacillus,2,False,Neobacillus,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Neochlamydia,3,family,Parachlamydiaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Nesterenkonia,1,False,Nesterenkonia,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Nevskia,1,family,Nevskiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Niallia,3,False,Niallia,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Niastella,1,False,Niastella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Nitratireductor,4,False,Nitratireductor,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Nitrosarchaeum,10,family,Nitrosopumilaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Nitrosomonas,4,False,Nitrosomonas,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Nitrosospira,3,False,Nitrosospira,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Nitrospira,7,family,Nitrospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Niveispirillum,1,False,Niveispirillum,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Nocardioides,27,False,Nocardioides,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Nostoc PCC-73102,9,family,Nostocaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Noviherbaspirillum,39,family,Oxalobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Novosphingobium,9,False,Novosphingobium,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+OLB13,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+OLB8,2,family,Saprospiraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+OM27 clade,4,family,Pseudobdellovibrionaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Occallatibacter,1,False,Occallatibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oceanicella,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Oerskovia,13,family,Cellulomonadaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Ohtaekwangia,5,manual,Fulvivirgaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Oleiharenicola,7,family,Opitutaceae,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Oleiphilus,1,False,Oleiphilus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Opitutus,1,False,Opitutus,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Ornithinibacter,9,family,Intrasporangiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Ornithinimicrobium,7,False,Ornithinimicrobium,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Oryzobacter,2,False,Oryzobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oscillochloris,2,family,Chloroflexaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ottowia,3,False,Ottowia,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Oxalicibacterium,39,family,Oxalobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Oxalobacter,2,False,Oxalobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+P3OB-42,7,family,Myxococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Paenibacillus,64,False,Paenibacillus,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Paeniclostridium,14,family,Peptostreptococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Paeniglutamicibacter,44,family,Micrococcaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pajaroellobacter,3,family,Polyangiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Paludibacter,1,False,Paludibacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Paludibacterium,2,False,Paludibacterium,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Paludibaculum,1,False,Paludibaculum,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Panacibacter,1,False,Panacibacter,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pantoea,16,False,Pantoea,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Parablastomonas,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Paracoccus,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Paraconexibacter,1,False,Paraconexibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pararhizobium,2,False,Pararhizobium,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Pararhodospirillum,1,False,Pararhodospirillum,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Parasediminibacterium,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Parasegetibacter,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Parazoarcus,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Parvibium,38,family,Alcaligenaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Paucibacter,4,False,Paucibacter,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Pectobacterium,17,False,Pectobacterium,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Pedobacter,9,False,Pedobacter,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+Pedococcus-Phycicoccus,9,family,Intrasporangiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pedomicrobium,4,family,Hyphomicrobiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Pelagibaculum,6,family,Leucotrichaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Pelosinus,11,family,Sporomusaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pelotalea,14,family,Geobacteraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Peredibacter,1,False,Peredibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peribacillus,4,False,Peribacillus,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Perlucidibaca,54,family,Moraxellaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Permianibacter,1,False,Permianibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Persicitalea,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Phaeodactylibacter,2,family,Saprospiraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phenylobacterium,3,False,Phenylobacterium,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Phormidesmis ANT.L52.6,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Phormidesmis ANT.LACV5.1,4,manual,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Phormidium CYN64,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Phormidium SAG 37.90,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Phreatobacter,2,False,Phreatobacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Phycisphaera,1,False,Phycisphaera,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Phyllobacterium,2,False,Phyllobacterium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pir4 lineage,12,family,Pirellulaceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Pirellula,12,family,Pirellulaceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Piscinibacter,2,False,Piscinibacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Planctomicrobium,12,manual,Planctomycetaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Planctopirus,2,False,Planctopirus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Planktothrix NIVA-CYA 15,5,family,Phormidiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Planococcus,25,family,Planococcaceae,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Plantibacter,102,family,Microbacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pleomorphomonas,1,family,Pleomorphomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pleurocapsa PCC-7319,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Polaromonas,3,False,Polaromonas,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Polyangium,1,False,Polyangium,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Polymorphobacter,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Polynucleobacter,10,False,Polynucleobacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pontixanthobacter,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Portibacter,2,family,Saprospiraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Potamolinea 1PC,1,family,Coleofasciculaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pricia,199,family,Flavobacteriaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Propionicimonas,26,family,Propionibacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Propionispira,6,family,Selenomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Propionivibrio,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Prosthecobacter,6,family,Verrucomicrobiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Pseudaeromonas,1,False,Pseudaeromonas,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pseudaminobacter,66,family,Rhizobiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Pseudanabaena PCC-6802,3,family,Pseudanabaenaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pseudanabaena PCC-7403,3,family,Pseudanabaenaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pseudanabaena PCC-7429,3,family,Pseudanabaenaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pseudarcicella,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Pseudarthrobacter,2,False,Pseudarthrobacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pseudazoarcus,1,False,Pseudazoarcus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Pseudobdellovibrio,1,False,Pseudobdellovibrio,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pseudoduganella,7,False,Pseudoduganella,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Pseudohongiella,1,False,Pseudohongiella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pseudolabrys,5,family,Xanthobacteraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Pseudolysinimonas,102,family,Microbacteriaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Pseudolysobacter,1,False,Pseudolysobacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Pseudomethylobacillus,6,family,Methylophilaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Pseudomonas,145,False,Pseudomonas,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Pseudonocardia,4,False,Pseudonocardia,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Pseudopelobacter,1,False,Pseudopelobacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Pseudorhodobacter,1,False,Pseudorhodobacter,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Pseudorhodoferax,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Pseudorhodoplanes,1,False,Pseudorhodoplanes,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Pseudoxanthomonas,5,False,Pseudoxanthomonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Psychrobacillus,1,False,Psychrobacillus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Psychrobacter,6,False,Psychrobacter,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Puia,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Qipengyuania,5,False,Qipengyuania,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+RBG-16-49-21,11,family,Leptospiraceae,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+RBG-16-58-14,3,family,Anaerolineaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+RD011,4,family,Leptolyngbyaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+RS62 marine group,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Ralstonia,7,False,Ralstonia,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Ramlibacter,1,False,Ramlibacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Rathayibacter,7,False,Rathayibacter,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Rectinema,6,family,Spirochaetaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Reichenbachiella,2,False,Reichenbachiella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rheinheimera,1,False,Rheinheimera,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhizobacter,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rhizobium,26,False,Rhizobium,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rhizorhabdus,3,False,Rhizorhabdus,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Rhizorhapis,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Rhodanobacter,1,False,Rhodanobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhodobacter,2,False,Rhodobacter,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+Rhodoblastus,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rhodococcus,36,family,Nocardiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Rhodocytophaga,1,False,Rhodocytophaga,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhodoferax,8,False,Rhodoferax,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rhodoluna,3,False,Rhodoluna,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhodomicrobium,1,False,Rhodomicrobium,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Rhodopila,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rhodopirellula,1,False,Rhodopirellula,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rhodoplanes,5,family,Xanthobacteraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Rhodopseudomonas,2,False,Rhodopseudomonas,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Rhodovarius,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rhodovastum,1,False,Rhodovastum,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Rickettsia,28,False,Rickettsia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rickettsiella,7,False,Rickettsiella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rikenellaceae RC9 gut group,7,family,Rikenellaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rivibacter,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rivicola,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Romboutsia,14,family,Peptostreptococcaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Roseiarcus,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Roseicella,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Roseimarinus,6,family,Prolixibacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Roseimaritima,2,False,Roseimaritima,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Roseimicrobium,6,family,Verrucomicrobiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Roseococcus,1,False,Roseococcus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Roseomonas,6,False,Roseomonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Roseospirillum,8,family,Rhodospirillaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rubellimicrobium,69,family,Paracoccaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rubidimonas,2,family,Saprospiraceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubripirellula,1,False,Rubripirellula,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubritepida,33,family,Acetobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rubrivirga,1,family,Rhodothermaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rubrivivax,1,False,Rubrivivax,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Rudanella,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Rugamonas,39,family,Oxalobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Rugosibacter,1,False,Rugosibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ruminiclostridium,3,False,Ruminiclostridium,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Runella,2,False,Runella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rurimicrobium,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+SD04E11,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+SM1A02,3,family,Phycisphaeraceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+SU2 symbiont group,2,family,Microcystaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+SWB02,3,family,Hyphomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Saccharedens,38,family,Alcaligenaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Saccharofermentans,28,family,Oscillospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Salinirepens,2,family,Crocinitomicaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Salinispira,1,False,Salinispira,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sandaracinobacter,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Sandaracinomonas,10,family,Spirosomataceae,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+Sandaracinus,1,False,Sandaracinus,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Sandarakinorhabdus,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Sanguibacter,2,False,Sanguibacter,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Schlesneria,1,False,Schlesneria,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Scytonema UTEX 2349,9,family,Nostocaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Sediminibacterium,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Segatella,3,False,Segatella,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Serratia,38,family,Yersiniaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Shewanella,47,False,Shewanella,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Sideroxydans,1,False,Sideroxydans,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Silanimonas,74,family,Lysobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Simplicispira,1,False,Simplicispira,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Singulisphaera,1,False,Singulisphaera,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Skermanella,4,False,Skermanella,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Solidesulfovibrio,2,False,Solidesulfovibrio,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Solitalea,1,False,Solitalea,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sorangium,1,False,Sorangium,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Sphaerotilus,2,False,Sphaerotilus,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+Sphingoaurantiacus,49,family,Sphingomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Sphingobacterium,11,False,Sphingobacterium,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+Sphingobium,8,False,Sphingobium,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Sphingomonas,36,False,Sphingomonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Sphingopyxis,7,False,Sphingopyxis,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Sphingorhabdus,1,False,Sphingorhabdus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Spirochaeta,1,False,Spirochaeta,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Spirochaeta 2,6,family,Spirochaetaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Spiroplasma,78,False,Spiroplasma,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Spirosoma,11,False,Spirosoma,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Sporichthya,1,family,Sporichthyaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sporobacter,28,family,Oscillospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Sporocytophaga,12,family,Cytophagaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Sporosarcina,7,False,Sporosarcina,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Stagnimonas,1,family,Nevskiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Staphylococcus,44,False,Staphylococcus,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Stella,1,False,Stella,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Stenotrophomonas,9,False,Stenotrophomonas,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Steroidobacter,1,False,Steroidobacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sterolibacterium,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Streptococcus,64,False,Streptococcus,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Streptomyces,191,False,Streptomyces,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Sulfuricaulis,1,False,Sulfuricaulis,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulfuricella,1,False,Sulfuricella,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulfuricurvum,1,False,Sulfuricurvum,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Sulfurimonas,13,False,Sulfurimonas,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Sulfurirhabdus,4,family,Sulfuricellaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Sulfurisoma,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Sulfuritalea,1,False,Sulfuritalea,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sulfurospirillum,5,False,Sulfurospirillum,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Sulfurovum,3,False,Sulfurovum,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+Sva0081 sediment group,4,family,Desulfosarcinaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Synechococcus PCC-7502,3,family,Pseudanabaenaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Syntrophobacter,1,False,Syntrophobacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Syntrophus,2,family,Syntrophaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+TM7a,2,family,Saccharimonadaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tabrizicola,1,False,Tabrizicola,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Tahibacter,19,family,Rhodanobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Taibaiella,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Tardiphaga,1,False,Tardiphaga,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Tautonia,5,family,Isosphaeraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Telmatobacter,1,False,Telmatobacter,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Telmatocola,1,False,Telmatocola,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Teretinema,6,family,Spirochaetaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Terrabacter,9,family,Intrasporangiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Terrimonas,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Tetrasphaera,9,family,Intrasporangiaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Thalassiella,1,family,Kineosporiaceae,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Thauera,5,False,Thauera,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Thermomonas,3,False,Thermomonas,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thiobaca,19,family,Chromatiaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Thiobacillus,1,False,Thiobacillus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thiocapsa,1,False,Thiocapsa,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Thiocystis,1,False,Thiocystis,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Thiothrix,5,False,Thiothrix,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Tolumonas,1,False,Tolumonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Tolypothrix,9,family,Nostocaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Treponema,14,False,Treponema,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Trichlorobacter,2,False,Trichlorobacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Trichococcus,2,False,Trichococcus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Truepera,1,False,Truepera,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tundrisphaera,1,False,Tundrisphaera,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Turicibacter,3,False,Turicibacter,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Turneriella,1,False,Turneriella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tuwongella,1,False,Tuwongella,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tychonema CCAP 1459-11B,5,family,Phormidiaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+UCG-005,28,family,Oscillospiraceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+UKL13-1,3,family,Hyphomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+UTBCD1,32,family,Chitinophagaceae,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+Uliginosibacterium,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+Undibacterium,2,False,Undibacterium,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Variovorax,1,False,Variovorax,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Verrucomicrobium,1,False,Verrucomicrobium,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+Verrucosispora,12,False,Verrucosispora,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Verticiella,38,family,Alcaligenaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Vibrio,77,False,Vibrio,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Vicinamibacter,1,family,Vicinamibacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Vogesella,11,family,Chromobacteriaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+WCHB1-32,6,family,Prolixibacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+WY65,1,manual,Acidobacterium,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Wilmottia Ant-Ph58,1,family,Coleofasciculaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Winogradskyella,2,False,Winogradskyella,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+Woeseia,1,False,Woeseia,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Xanthobacter,1,False,Xanthobacter,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Xanthomonas,33,False,Xanthomonas,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Xylophilus,56,family,Comamonadaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+Yersinia,38,family,Yersiniaceae,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Zavarzinella,7,family,Gemmataceae,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+Zoogloea,10,family,Rhodocyclaceae,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+[Aquaspirillum] arcticum group,39,family,Oxalobacteraceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+[Eubacterium] brachy group,6,family,Anaerovoracaceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+alphaI cluster,5,family,Beijerinckiaceae,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+hgcI clade,1,family,Sporichthyaceae,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mle1-7,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+oc32,7,family,Nitrosomonadaceae,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+pLW-20,33,manual,,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+possible genus 04,1,family,Fibrobacteraceae,0.0,1.0,0.0,0.0,0.0,0.0,0.0
